@@ -1,0 +1,7 @@
+       Problemartica y solucion con IoT
+
+Imaginamos un equipo de cultivo indoor que está tratando de cultivar plantas exóticas en un ambiente controlado. Uno de los desafíos que enfrentan es mantener las condiciones óptimas de crecimiento para estas plantas, especialmente en lo que respecta al agua.
+Cada planta tiene sus propias preferencias de agua, desde la cantidad exacta hasta la calidad y la temperatura. Mantener un ojo en todos estos detalles puede ser bastante engorroso.
+Desde la IoT podríamos instalar sensores inteligentes en el sistema de riego que recojan datos sobre la cantidad y la calidad del agua, así como la temperatura y otros factores importantes.
+Estos sensores podrían enviar toda esta información a una aplicación en nuestro teléfono, donde podríamos ver fácilmente si nuestras plantas están recibiendo la cantidad adecuada de agua, si el pH está en el rango correcto y si la temperatura es la adecuada para su crecimiento óptimo.
+Así que, en lugar de estar corriendo de un lado a otro probando el agua y ajustando los controles, podemos mirar nuestra aplicación y tomar medidas rápidas y fáciles para asegurarnos de que nuestras plantas esten saludables. 

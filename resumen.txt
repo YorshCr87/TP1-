@@ -1,0 +1,9 @@
+
+
+                             Resumen Tutorial.
+
+Durante el tutorial, exploré GitHub, una plataforma que utiliza Git para controlar versiones y trabajar en equipo en proyectos. Descubrí que Git es como un historiador digital, que registra cada cambio en el código y facilita la colaboración.
+Aprendí que en GitHub, los proyectos se organizan en repositorios, que son como carpetas virtuales que contienen todos los archivos y su historial de cambios. Clonar repositorios me permitió tener una copia del proyecto en mi propia computadora, lo que facilitó trabajar en él de manera más personal.
+Comprendí la importancia de confirmar (commit) y enviar (push) los cambios a GitHub, como si estuviera compartiendo mi progreso con el equipo para que todos estén al tanto. También exploré conceptos como ramas (branches), forks (copia de proyectos para colaborar) y pull requests (solicitudes para fusionar cambios), que me mostraron cómo trabajar juntos en equipo para mejorar un proyecto.
+Explorar mi perfil de usuario en GitHub me hizo sentir como si estuviera mostrando mi portafolio digital, con información sobre mis intereses, contribuciones y conversaciones. También aprendí a dar formato al texto con Markdown, lo que me permitió presentar la información de manera más clara y organizada.
+Y finalmente, descubrí la comunidad de GitHub, donde me sentí como un explorador digital, descubriendo nuevos proyectos y desarrolladores en GitHub Explore, y conectándome con otros usuarios al marcar repositorios y seguir sus actividades. Fue como sumergirme en un mundo digital lleno de posibilidades y colaboración.
